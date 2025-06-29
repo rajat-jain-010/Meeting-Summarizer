@@ -1,0 +1,13 @@
+1. Identify Discussions Type
+
+2. Extract Problem statement (pain points, challenges, needs)
+
+3. Solution Design
+
+4. Technology Stack Recommendation
+
+5. Summary Generation
+
+6. Key Point Extraction
+
+7. Action Item Extraction

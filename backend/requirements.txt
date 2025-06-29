@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+python-magic-bin
+llama-cpp-python
